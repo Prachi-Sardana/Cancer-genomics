@@ -1,9 +1,6 @@
 # Project Title 
 Detecing somatic variants
 
-Assignment 11 -BINF6309 -Bioinformatics
-
-NUID - 002938389
 
 ## Authors
 
